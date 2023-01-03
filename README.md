@@ -9,7 +9,7 @@ Former field CTO, transformation program lead, consulting architect, middleware 
 
 ### Contact me 📨
 
-Please just reach out on [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/JaouherK/6d822e9f95fc46ea30d82bb8e0fc588c/raw/52a2c7f5d2bd5ef43e018f61ccd9f625bd337d5d/profileLinkedin.json)](https://www.linkedin.com/in/marczottner/) !
+Please just reach out on [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/JaouherK/6d822e9f95fc46ea30d82bb8e0fc588c/raw/52a2c7f5d2bd5ef43e018f61ccd9f625bd337d5d/profileLinkedin.json)](https://www.linkedin.com/in/marczottner/)
 
 <!--
 **Maarc/Maarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
