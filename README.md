@@ -4,7 +4,7 @@ I'm [Marc](https://www.zottner.com/), an Application [Archeologist](https://www.
 
 ### What I do 👨🏻‍💻 
 
-Former field CTO, transformation program lead, consulting architect, middleware specialist, and trainer, I have an extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Recently I co-authored my first eBook: [The Legacy Trap](https://via.vmware.com/legacy-trap/).
+Former field CTO, transformation program lead, consulting architect, middleware specialist, and trainer, I have an extensive experience in the application ecosystem. Transformation, security, platform, open-source, and architecture are my favorite topics. Recently I co-authored my first eBook: [The Legacy Trap](https://via.vmware.com/legacy-trap/) and open-sourced an [application portfolio audit](https://github.com/vmware-tanzu/application-portfolio-auditor) tool.
 
 
 ### Contact me 📨
