@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Marc](https://www.zottner.com/), an Application [Archeologist](https://www.linkedin.com/pulse/legacy-infrastructure-saqqara-necropolis-world-marc-zottner/) and Executive Advisor at [VMware Tanzu](https://tanzu.vmware.com/tanzu).
+I'm [Marc](https://www.zottner.com/), an Application [Archeologist](https://www.linkedin.com/pulse/legacy-infrastructure-saqqara-necropolis-world-marc-zottner/) and Executive Advisor.
 
 ### What I do 👨🏻‍💻 
 
